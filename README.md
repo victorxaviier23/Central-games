@@ -48,6 +48,24 @@ Central-games/
 
 ---
 
+## 📊 MODELAGEM (DER)
+
+![Diagrama Conceitual MER](docs/images/conceitual.png)
+
+**Descrição:** Diagrama Entidade-Relacionamento (DER) que representa a estrutura do banco de dados do Sistema de Gerenciamento de Lan House, incluindo:
+
+- 🎮 **Torneios** - Campeonatos e eventos
+- 👥 **Clientes** - Usuários e jogadores
+- 💻 **Computadores** - Máquinas da lan house
+- 🎮 **Sessões** - Sessões de uso e aluguel
+- 🛍️ **Compras** - Transações comerciais
+- 📦 **Produtos** - Itens disponíveis
+- 📊 **Consumo** - Rastreamento de consumo
+- 📋 **Inscrições** - Participações em torneios
+- 🔐 **Audi_log** - Log de auditoria
+
+---
+
 ## 🚀 Como Executar
 
 ### Pré-requisitos
