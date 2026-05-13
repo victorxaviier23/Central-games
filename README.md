@@ -12,9 +12,9 @@ Este sistema visa facilitar a gestão de operações, clientes, equipamentos, al
 
 | Nome | Matrícula |
 |------|-----------|
-| João Victor Farias Xavier | ADS2N |
-| Andressa Thaís Silveira dos Santos | ADS2N |
-| Jhonata Cabral Lopes da Silva | ADS2N |
+| João Victor Farias Xavier | 2020211430 |
+| Andressa Thaís Silveira dos Santos | 2025202269 |
+| Jhonata Cabral Lopes da Silva | 2025202260 |
 
 ---
 
@@ -25,14 +25,14 @@ Este sistema visa facilitar a gestão de operações, clientes, equipamentos, al
 - ✅ Sistema de reservas e aluguéis
 - ✅ Relatórios e estatísticas
 - ✅ Controle de acesso
-
+- ✅ Venda de produtos
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Banco de Dados**: [Especificar: MySQL, PostgreSQL, etc.]
-- **Backend**: [Especificar: Java, Python, Node.js, etc.]
-- **Frontend**: [Especificar: HTML/CSS/JavaScript, React, etc.]
+- **Banco de Dados**: [Especificar: MySQL.]
+- **Backend**: [Especificar: Java]
+- **Frontend**: [Especificar: HTML/CSS/JavaScript.]
 
 ---
 
@@ -64,25 +64,6 @@ Central-games/
 - 📋 **Inscrições** - Participações em torneios
 - 🔐 **Audi_log** - Log de auditoria
 
----
-
-## 🚀 Como Executar
-
-### Pré-requisitos
-- [Especificar requisitos do sistema]
-
-### Instalação
-```bash
-# Clone o repositório
-git clone https://github.com/victorxaviier23/Central-games.git
-
-# Navegue até o diretório
-cd Central-games
-
-# [Adicione comandos de instalação]
-```
-
----
 
 ## 📝 Licença
 
